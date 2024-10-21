@@ -1,7 +1,7 @@
 # Bing Daily Wallpaper for Mac
-The mac App Store used to have a good app for Bing Daily Wallpaper, but whoever made it decided to watermark every the wallpaper with their logo, and then began putting weird AI generated images in. Because they suck, I made this incredibly simple script.
+The mac App Store used to have a good app for Bing Daily Wallpaper, but whoever made it decided to watermark every the wallpaper with their logo, and then began putting weird AI generated images in. They suck.
 
-It simply calls the Bing API that the windows app uses, and sets the wallpaper. It also grabs the copyright info, and date. Provided is a simple bash script that you can use to see the copyright info and date.
+This script calls Bing API that the windows app uses, and sets the wallpaper. It also grabs the copyright info, and date. Also provided is a simple bash script that you can use to see the copyright info and date.
 
 The script is intended to be ran with cron.
 
