@@ -21,3 +21,5 @@ The script is intended to be ran with cron.
 5. Enjoy your new wallpaper every day!
 
 You should also you give `https://apps.apple.com/us/app/daily-wallpaper-hd/id1507778016?mt=12` a 1 star review for watermarking the wallpapers and putting cash grabs into the app. They suck.
+
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/edbba104-1d8b-4719-8ff9-822b5b4b8f69">
