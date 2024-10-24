@@ -5,6 +5,9 @@ This script calls Bing API that the windows app uses, and sets the wallpaper. It
 
 The script is intended to be ran with launchctl, use the `bing-wallpaper-daily.plist` file to set it up.
 
+## Script Requirements
+1. `jq` - A lightweight and flexible command-line JSON processor. You can install it with `brew install jq`
+
 ## Running the script:
 1. Run `osascript script.applescript` to set the wallpaper
 
