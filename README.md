@@ -11,6 +11,6 @@ This script calls Bing API that the windows app uses, and sets the wallpaper. It
 
 This will now run the script every day at 12:00 AM.
 
-### You should also give [Daily Wallpaper HD](https://apps.apple.com/us/app/daily-wallpaper-hd/id1507778016?mt=12) a 1 star review for watermarking the wallpapers and putting cash grabs into the app.
-
 <img width="1440" alt="image" src="https://github.com/user-attachments/assets/edbba104-1d8b-4719-8ff9-822b5b4b8f69">
+
+### You should also give [Daily Wallpaper HD](https://apps.apple.com/us/app/daily-wallpaper-hd/id1507778016?mt=12) a 1 star review for watermarking the wallpapers and putting cash grabs into the app.
