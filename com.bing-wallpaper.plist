@@ -3,12 +3,18 @@
 <plist version="1.0">
 <dict>
     <key>Label</key>
-    <string>com.schreib.bing-wallpaper-daily</string>
+    <string>com.bing-wallpaper</string>
+
+    <key>EnvironmentVariables</key>
+    <dict>
+        <key>PATH</key>
+        <string>/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin</string>
+    </dict>
     
     <key>ProgramArguments</key>
     <array>
         <string>/usr/bin/osascript</string>
-        <string>/Users/benjaminschreiber/projects/daily_wallpaper/script.applescript</string>
+        <string>/usr/local/bing-wallpaper/bing-wallpaper.applescript</string>
     </array>
 
     <key>StartCalendarInterval</key>

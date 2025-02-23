@@ -1,3 +1,3 @@
 #!/bin/bash
 
-cat ~/daily-wallpaper/copyright.txt
+cat ~/Library/Application\ Support/bing-wallpaper/copyright.txt
